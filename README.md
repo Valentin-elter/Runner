@@ -16,15 +16,19 @@ Realised with SFML 2.5
 
 ### 3. Build and install CSFML:
 
-  mkdir build
+	mkdir build
 	cd build
 	cmake ..
 	make
 	sudo make install
 
-### 4. Build my_rpg from my repo:
+### 4. Build my_runner from my repo:
 	make
 	./my_runner map.txt
-  
-  
-  ##Screenshots
+
+
+## Screenshots
+
+![Alt text](screenshots/1.png?raw=true "1")
+![Alt text](screenshots/2.png?raw=true "2")
+![Alt text](screenshots/3.png?raw=true "3")
