@@ -1,10 +1,13 @@
 # Runner
 
-First year project student. A runner game taking a txt file to generate a level. Made with C-SFML lib. (yes you can finish my level !)
+A first-year student project, a runner game that utilizes a text file to generate levels. Developed using the C-SFML library.
 
-## Build with linux (ubuntu)
+## USAGE
+    	./my_runner map.txt
 
-Realised with SFML 2.5
+## Build on Linux (Ubuntu)
+
+Built with SFML 2.5
 
 ### 1. Install the dependencies:
 
@@ -16,7 +19,7 @@ Realised with SFML 2.5
 
 ### 3. Build and install CSFML:
 
-	mkdir build
+    mkdir build
 	cd build
 	cmake ..
 	make
